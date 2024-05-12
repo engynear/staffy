@@ -3,7 +3,7 @@
 	url = https://github.com/engynear/staffy-web-backend
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/engynear/staffy-web-frontend
+	url = https://github.com/engynear/staffy-web-front
 [submodule "bot"]
 	path = bot
 	url = https://github.com/engynear/staffy-bot
